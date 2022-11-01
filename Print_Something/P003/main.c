@@ -2,6 +2,7 @@
 its sum.*/
 
 #include <stdio.h>
+
 int main()
 {
     int number1 = 2, number2 = 6;

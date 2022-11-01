@@ -2,6 +2,7 @@
 display its sum [Follow the printing style num + num = sum].*/
 
 #include <stdio.h>
+
 int main()
 {
     float number1, number2;
