@@ -1,0 +1,25 @@
+(P001). Write a C program to display “This is my first C Program”.
+
+(P002). Write a C Program to display your Id, Name, Dept. Name and
+University Name followed by a newline.
+
+(P003). Write a C program to add two numbers (2 and 6) and display
+its sum.
+
+(P004). Write a C program to multiply two numbers (4 and 5) and
+display its product.
+
+(P005). Write a C program to add two numbers (5 and 8) and display
+its sum like (5 + 8 = 13).
+
+(P006). Write a C program to input two numbers and display those
+numbers.
+
+(P007). Write a C Program to input two numbers as input and display
+its sum.
+
+(P008). Write a C Program to input two numbers as input and display
+its product.
+
+(P009). Write a C Program to input two float numbers as input and
+display its sum [Follow the printing style num + num = sum].
