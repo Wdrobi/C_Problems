@@ -5,21 +5,21 @@ Write a C program to enter two numbers and perform all arithmetic operations.
 Circle.
 
 (P003) 
-Write a C program to enter length in centimeter and convert
-it into meter and kilometer.
+Write a C program to enter the length in centimeters and convert
+it into meters and kilometers.
 
 (P004)
-Write a C Program to Calculate Area of a Rectangle, take
+Write a C Program to Calculate the Area of a Rectangle, take
 height and width as user input.
 
-(P005) Write a C Program to Calculate Area of a Square, take length
+(P005) Write a C Program to Calculate the Area of a Square, take the length
 of one side as user input.
 
 (P006) 
-Write a C program to enter temperature in °Celsius and convert
+Write a C program to enter a temperature in °Celsius and convert
 it into °Fahrenheit.
 
-(P007) Write a C program to enter temperature in Fahrenheit(°F) and
+(P007) Write a C program to enter a temperature in Fahrenheit(°F) and
 convert it into Celsius(°C),
 
 (P008) Write a C program to enter marks of five subjects and calculate
