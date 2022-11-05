@@ -1,3 +1,5 @@
+/*Write a Program to take the value from the user as input any alphabet and check whether it is vowel or consonant (Using the switch statement).*/
+
 #include <stdio.h>
 
 int main()
