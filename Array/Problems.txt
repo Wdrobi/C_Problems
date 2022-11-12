@@ -1,11 +1,11 @@
 (P001)
- Write a C program to find the largest element of an 1D array.
+Write a C program to find the largest element of an 1D array.
 
 (P002)
- Write a C program to find the average of n numbers using arrays.
+Write a C program to find the average of n numbers using arrays.
 
 (P003)
- Write a C program to find the largest element of an multidimensional array.
+Write a C program to find the largest element of an multidimensional array.
 
 (P004)
 Write a program in C to read n number of values in an array and display it in reverse order.
