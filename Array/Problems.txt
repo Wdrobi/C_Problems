@@ -10,12 +10,14 @@ Write a C program to find the largest element of an multidimensional array.
 (P004)
 Write a program in C to read n number of values in an array and display it in reverse order.
 
-(P005)Write a program in C to count a total number of duplicate elements in an array.
+(P005)
+Write a program in C to count a total number of duplicate elements in an array.
 
 (P006) 
 Write a program in C to find the maximum and minimum element in an array.
 
-(P007) Write a program in C to separate odd and even integers in separate arrays.
+(P007)
+Write a program in C to separate odd and even integers in separate arrays.
 
 (P008)
 Write a C Program to Calculate mean, median and Standard Deviation.
@@ -23,7 +25,8 @@ Write a C Program to Calculate mean, median and Standard Deviation.
 (P009)
 Write a C program to convert Decimal to Binary number system.
 
-(P010)Write a C program to count frequency of each element in an array.
+(P010)
+Write a C program to count frequency of each element in an array.
 
 (P011)
 Write a C Program to Find Transpose of a Matrix.
